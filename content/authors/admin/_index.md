@@ -17,13 +17,15 @@ organizations:
   - name: CMAP - École polytechnique
     url: https://portail.polytechnique.edu/cmap/fr
   - name: EDF Lab Paris-Saclay
+    url: https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include rare event simulation, piecewise deterministic Markov processes, sensitivity analysis and Monte-Carlo methods in general.
 
 # Interests to show in About widget
 interests:
   - Monte-Carlo methods
+  - Piecewise deterministic Markov processes
   - Rare event simulation
   - Sensitivity analysis
 
@@ -54,15 +56,15 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Pnu_nHAAAAAJ&hl=fr&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/GuillaumeChennetier
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/guillaume-chennetier-86554061/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -78,8 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+I am a 2nd year PhD student at CMAP, the applied mathematics laboratory of the Ecole Polytechnique under the supervision of Josselin Garnier and at EDF Lab Paris Saclay where I work with Hassane Chraibi and Anne Dutfoy. 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
