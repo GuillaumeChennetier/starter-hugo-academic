@@ -80,5 +80,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a 2nd year PhD student at CMAP, the applied mathematics laboratory of the Ecole Polytechnique under the supervision of Josselin Garnier and at EDF Lab Paris Saclay where I work with Hassane Chraibi and Anne Dutfoy. 
+I am a 2nd year PhD student at CMAP, the applied mathematics laboratory of the Ecole Polytechnique under the supervision of [Josselin Garnier](https://josselin-garnier.org/) and at EDF Lab Paris Saclay where I work with Hassane Chraibi and Anne Dutfoy. 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
